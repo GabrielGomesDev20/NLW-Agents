@@ -31,7 +31,6 @@ O foco foi desenvolver uma interface simples e funcional, que demonstra na prát
 ### 🤖 Resposta da IA em tempo real
 ![Imagem do projeto](./src/imagens/assets/resultado1_1.jpg)
 
-Acesse o projeto clicando no 👉🏽 [link]()
 
 ## 🚀 Aprendizados
 
