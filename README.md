@@ -26,10 +26,10 @@ O foco foi desenvolver uma interface simples e funcional, que demonstra na prát
 ## 📸 Imagens do projeto
 
 ### 💻 Interface principal
-![Imagem do projeto 1](./src/imagens/assets/resultado 1.jpg)
+![Imagem do projeto 1](./src/imagens/assets/resultado_1.jpg)
 
 ### 🤖 Resposta da IA em tempo real
-![Imagem do projeto 2](./src/imagens/assets/resultado 1.1jpg)
+![Imagem do projeto](./src/imagens/assets/resultado_1_1.jpg)
 
 Acesse o projeto clicando no 👉🏽 [link]()
 
