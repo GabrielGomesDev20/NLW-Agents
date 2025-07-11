@@ -29,7 +29,7 @@ O foco foi desenvolver uma interface simples e funcional, que demonstra na prát
 ![Imagem do projeto 1](./src/imagens/assets/resultado_1.jpg)
 
 ### 🤖 Resposta da IA em tempo real
-![Imagem do projeto](./src/imagens/assets/resultado_1_1.jpg)
+![Imagem do projeto](./src/imagens/assets/resultado1_1.jpg)
 
 Acesse o projeto clicando no 👉🏽 [link]()
 
